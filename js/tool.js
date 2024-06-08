@@ -1,5 +1,5 @@
 // connect to socket server
-const socket = io.connect("https://whiteboard-9ant.onrender.com");
+const socket = io.connect("https://lowhithya.github.io/WhiteBoard/");
 // *********************************Basic Setup
 const board = document.querySelector(".board");
 board.height = window.innerHeight;
